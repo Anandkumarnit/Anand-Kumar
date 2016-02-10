@@ -1,0 +1,156 @@
+.header
+{
+    background-color: black;
+}
+.head
+{
+    padding: 31px 0px 37px;
+    margin-left: 92px;
+}
+
+.col-md-4.head {}
+
+.pad-circle
+{
+    float:left;
+    padding: 16px 18px 15px;
+    border-radius: 50%;
+    margin: 13px 3px 6px;
+    width: 2px;
+    height: 34px;
+    padding-top: 11px;
+    padding-left: 13px;
+    padding-right: 22px;
+    color: white;
+    
+}
+.twit
+{
+    background-color: skyblue;
+}
+.face
+{
+    background-color: #004088;
+}
+.goog
+{
+    background-color: #d95333;
+}
+.pint
+{
+    background-color: #ca2128;
+}
+.rsss
+{
+    background-color: #ff9900;
+}
+.a
+{
+   background-color: white;
+   
+}
+.a:hover
+{
+    color:red;
+}
+.pad-circle:hover
+{
+    background-color: white;
+    color: black;
+}
+.pad-square
+{
+    background-color: black;
+    color: white;
+    margin-top: 14px;
+    padding: 1px 1px 1px 8px;
+    border-radius: 4px;
+}
+.pad-square:hover
+{
+    background-color: white;
+    color: red;
+}
+
+
+.pad
+{
+   
+    background-color: white;
+    color: black;
+    font-weight: 10px;
+}
+.colour
+{
+    color:black;
+}
+.whole
+{
+    background-color: #dcdcdc;
+}
+.tags {
+    line-height: 14px;
+    margin-bottom: 8px;
+    font-size: 11px;
+   
+}
+
+.tags
+{
+    line-height: 14px;
+    margin-bottom: 8px;
+    font-size: 11px;
+
+
+}
+.tag
+{
+    line-height: 14px;
+    margin-bottom: 8px;
+    font-size: 11px;
+
+}
+
+
+.tag .fa {
+    color: #e84c4c;
+    font-size:14px;
+    margin-right: 6px;
+}
+.tags .fa {
+    color: #e84c4c;
+    font-size: 14px;
+    margin-right: 6px;
+}
+.img
+{
+    padding: 50px 0px 0px;
+    margin: -41px 0px 13px 0px;
+}
+.ul
+{
+    padding-top: 0px;
+    list-style: none;
+}
+.tabbed {
+    padding-top: 6px;
+}
+.tabbed .hr-bold 
+{
+    border-bottom: 3px solid #bdbdbd;
+    margin-bottom: 30px;
+    padding-bottom: 54px;
+}
+.hr-bold {
+    border-bottom: 3px solid #bdbdbd;
+    margin-bottom: 30px;
+}
+.hr-b
+{
+    border-bottom: 1px solid #bdbdbd;
+}
+
+.lpadding
+{
+    padding-left: 58px;
+}
